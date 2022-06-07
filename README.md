@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muhammedmagid@gmail.com**
 
-- ⚡ Fun fact **I love standup comedy**
+- ⚡ Fun fact **I love stand-up comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
