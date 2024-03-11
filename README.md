@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A passionate Mechanical Engineering from Egypt</h3>
+<h1 align="center">Hi , I'm Muhammed</h1>
+<h3 align="center">A passionate Mechanical Engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **Scientific Computing and Simulation**
 
