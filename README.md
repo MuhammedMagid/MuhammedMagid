@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">A passionate Mechanical Engineering from Egypt</h3>
 
-- 🌱 I’m currently learning **Simulation with ML**
+- 🌱 I’m currently learning **Scientific Computing and Simulation**
 
-- 💬 Ask me about **CFD , FEA**
+- 💬 Ask me about **CFD , ML , Software Development**
 
-- 📫 How to reach me **muhammedmagid@gmail.com**
-
-- ⚡ Fun fact **I love stand-up comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
